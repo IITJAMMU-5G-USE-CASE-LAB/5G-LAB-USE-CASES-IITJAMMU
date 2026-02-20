@@ -11,5 +11,17 @@ This repository serves as the central workspace for all projects under the 5D Us
 - [5G Drone Applications](./5G%20DRONE)
 - [5G Evaluation Board](./5G%20EVALUATION_BOARD)
 
-Each module in this repository represents a practical implementation scenario where high-speed, low-latency communication plays a critical role in enabling intelligent decision-making and real-time operations.
+Multi-access Edge Computing (MEC) plays a critical role in enabling real-time and low-latency applications within the 5D Use Case Lab. Instead of sending all data to a distant cloud server, MEC brings computation and storage closer to the end devices by placing processing capabilities at the edge of the network.
+
+In use cases such as 5G Camera systems and 5G Drone applications, large volumes of video and sensor data are generated continuously. Processing this data at the network edge allows:
+
+* Faster decision-making
+
+* Reduced network congestion
+
+* Lower latency communication
+
+* Improved reliability for mission-critical operations
+
+By integrating MEC with 5G connectivity, the lab aims to demonstrate intelligent edge-based systems capable of supporting real-time analytics, AI-driven insights, and autonomous operations.
 
