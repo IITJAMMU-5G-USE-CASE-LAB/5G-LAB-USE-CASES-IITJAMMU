@@ -10,6 +10,7 @@ This repository serves as the central workspace for all projects under the 5D Us
 - [5G Camera Systems](./5G%20CAMERA)
 - [5G Drone Applications](./5G%20DRONE)
 - [5G Evaluation Board](./5G%20EVALUATION_BOARD)
+- [Sensor_Board](./%20SENSOR_BOARD)
 
 
 **Role of Multi-access Edge Computing (MEC)**
