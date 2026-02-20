@@ -21,11 +21,8 @@ Multi-access Edge Computing (MEC) plays a critical role in enabling real-time an
 In use cases such as 5G Camera systems and 5G Drone applications, large volumes of video and sensor data are generated continuously. Processing this data at the network edge allows:
 
 * Faster decision-making
-
 * Reduced network congestion
-
 * Lower latency communication
-
 * Improved reliability for mission-critical operations
 
 By integrating MEC with 5G connectivity, the lab aims to demonstrate intelligent edge-based systems capable of supporting real-time analytics, AI-driven insights, and autonomous operations.
