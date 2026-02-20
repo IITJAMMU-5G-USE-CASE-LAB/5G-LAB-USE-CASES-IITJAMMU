@@ -12,7 +12,9 @@ This repository serves as the central workspace for all projects under the 5D Us
 - [5G Evaluation Board](./5G%20EVALUATION_BOARD)
 
 
-Role of Multi-access Edge Computing (MEC)
+**Role of Multi-access Edge Computing (MEC)**
+
+
 Multi-access Edge Computing (MEC) plays a critical role in enabling real-time and low-latency applications within the 5G Use Case Lab. Instead of sending all data to a distant cloud server, MEC brings computation and storage closer to the end devices by placing processing capabilities at the edge of the network.
 
 In use cases such as 5G Camera systems and 5G Drone applications, large volumes of video and sensor data are generated continuously. Processing this data at the network edge allows:
